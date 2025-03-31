@@ -1,1 +1,1 @@
-# Majakiya-Hub-App
+Laugh Track App
